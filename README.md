@@ -55,5 +55,3 @@ I'm Kevin, a fullstack developer 🎓.   I love building interesting and amazing
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
