@@ -3,7 +3,6 @@
 I'm Kevin, a fullstack developer 🎓.   I love building interesting and amazing products that serve a great deal of purpose 💻.  
 
 - 🧐 Interested in full stack web development. Recent focus on frontend.  
-- 💼 Looking for a position in a tech company.  
 - 🌱 I’m currently tinkering around DevOps mainly Docker and Kubernetes.  
 - ⚡ Fun fact: I have a degree in geophysical engineering  
   
